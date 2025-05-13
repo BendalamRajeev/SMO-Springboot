@@ -1,4 +1,4 @@
-# 🧵📊 Sewing Machine Optimization (SMO) – Spring Boot Backend
+# 🧵📊 Sewing Machine Operator (SMO) – Spring Boot Backend
 
 > 💡 A robust Spring Boot backend for tracking and optimizing worker and sewing machine performance in the garment industry. This backend powers the SMO Android App.
 
